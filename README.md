@@ -56,11 +56,6 @@ Voer daarna de migraties uit om de tabellen aan te maken:
 php artisan migrate
 ```
 
-Optioneel: Voeg voorbeeldgegevens toe met seeders:
-```bash
-php artisan db:seed
-```
-
 ### 6. Start de ontwikkelserver
 ```bash
 php artisan serve
